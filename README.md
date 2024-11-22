@@ -1,5 +1,5 @@
 ## 💁🏻‍♂️ About Me
-- 👋 Hi, I’m Mohamed Omar.
+- 👋 Hi, I’m Mohamed Winner.
 - 👨🏻‍💻 I’m Front-End developer.
 - 🔥 I’m interested in Linux.
 - 👨🏻‍🎓 I'm an information systems student at [Higher Institute of Computer Science](https://www.cis.edu.eg/) in [New Cairo Academy](https://en.wikipedia.org/wiki/New_Cairo_Academy).

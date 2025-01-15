@@ -7,7 +7,7 @@
 
 ## 🪄 My Skills
 
-![Technologies Icons](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,regex,redux,git,github,linux,netlify)
+![Technologies Icons](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,react,regex,redux,git,github,linux,netlify,express,postman,mongodb,netlify,vite&perline=16,webpack)
 
 ## ✉️ Contact me
 > **NOTE:** You can click on any of the following badges to jump to contact me
